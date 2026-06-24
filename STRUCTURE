@@ -1,0 +1,33 @@
+user-crud-app/
+│
+├── node_modules/
+│
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── manifest.json
+│
+├── src/
+│   │
+│   ├── components/
+│   │   ├── UserList.js
+│   │   ├── UserForm.js
+│   │   ├── UserView.js
+│   │   └── Navbar.js
+│   │
+│   ├── services/
+│   │   └── api.js
+│   │
+│   ├── styles/
+│   │   └── App.css
+│   │
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+│
+├── db.json
+├── package.json
+├── package-lock.json
+├── .gitignore
+└── README.md
